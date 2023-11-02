@@ -1,0 +1,56 @@
+.Messi{
+    font-style: italic;
+}
+body{
+    background: goldenrod;
+    font-weight: bold;
+}
+.color1{
+    color: skyblue;
+}
+.color3{
+    color: aquamarine;
+}
+.color2{
+    color: pink;
+}
+.color4{
+    color: blue;
+}
+.color5{
+    color: red;
+}
+.color6{
+    color: darkmagenta;
+}
+.image{
+    border: 3px solid transparent;
+}
+.image:hover{
+    border: 3px solid rgb(106, 42, 165);
+    cursor: pointer;
+}
+.site:link{
+    color:black;
+}
+.site:visited{
+    color: black;
+}
+.site:active{
+    color: red;
+    font-size: 15px;
+}
+.site:hover{
+    text-decoration: none;
+}
+.word{
+    color:red;
+    font-weight: bold;
+}
+
+.word:hover{
+    color:blue;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
